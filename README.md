@@ -11,6 +11,7 @@
 - **Python** 🐍
 - **React** ⚛️
 - **JavaScript** ✨
+- ** MYSQL **
 
 I'm always eager to expand my knowledge and tackle new problems. My journey is just beginning, and I'm excited for what lies ahead!
 
