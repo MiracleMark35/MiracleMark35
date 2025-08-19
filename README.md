@@ -1,7 +1,6 @@
 
 Hey, nice to see you.
 
-> **Greater Difficulty Greater Glory!**
 
 ---
 
