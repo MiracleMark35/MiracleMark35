@@ -13,6 +13,9 @@ Hey, nice to see you.
   <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React badge" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" alt="JavaScript badge" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" alt="MySQL badge" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js badge" />  
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java badge" />  
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C badge" />  
 </p>
 
 
